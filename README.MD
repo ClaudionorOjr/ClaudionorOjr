@@ -12,9 +12,9 @@
 
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudionorOjr&show_icons=true&hide=issues&theme=midnight-purple&hide_border=true&title_color=4c71f2&icon_color=4c71f2" />
+  <img align="center" height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=ClaudionorOjr&show_icons=true&hide=issues&theme=midnight-purple&hide_border=true&title_color=4c71f2&icon_color=4c71f2" />
  </a>
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&hide_border=true&title_color=4c71f2" />
+ <img align="center" height="180em" width="328" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=midnight-purple&hide_border=true&title_color=4c71f2" />
 </div>
 
 ##
