@@ -2,7 +2,7 @@
 
 ## Seja bem-vindo(a) ao meu repositório remoto!
 
-### Sou discente do 7º período de Ciência da Computação – UERN
+### Bacharel em Ciência da Computação – UERN
 
 💻 - Iniciando no desenvolvimento Web, focado no Front-end.  
 📚 - Atualmente me dedico ao estudo de
