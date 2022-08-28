@@ -2,7 +2,7 @@
 
 ## Welcome to my remote repository!
 
-### Graduate in Computer Sciense – UERN 🧑🏽‍🎓
+### Graduated in Computer Science – UERN 🧑🏽‍🎓
 
 💻 - Treading the web development.  
 👨🏽‍💻 - Experience in 
